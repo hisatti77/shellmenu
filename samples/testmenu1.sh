@@ -1,5 +1,8 @@
 #! /bin/bash
 
+## Creating parent - child menu
+## This is parent menu script
+
 . ./menu.sh
 
 function a4
