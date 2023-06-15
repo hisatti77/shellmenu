@@ -1,5 +1,5 @@
 # shellmenu
-Shell script to easily create Simple menu based scripts
+Linux shell script to easily create Simple menu based scripts to help automate.
 
 ## Methods
 menuTitle <title> : Sets Heading of the menu 
